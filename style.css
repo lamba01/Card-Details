@@ -201,7 +201,7 @@ iframe {
         font-size: 25px;
     }
 }
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 321px) {
     .cvv {
         position: relative;
         right: 40px;
@@ -209,7 +209,7 @@ iframe {
         font-size: 10px;
     }
     .number {
-        font-size: 22px;
+        font-size: 20px;
     }
     .name, .cc, .cs {
         font-size: small;
